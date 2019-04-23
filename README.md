@@ -6,3 +6,5 @@
 2. Apache Spark. Основы. [link](https://docs.google.com/presentation/d/1d8N-4c6q1dRqjHnW9vbBlVXiIhp8eNPlzfjdxR0EfPM/edit?usp=sharing)
 
 3. Apache Spark. DataFrame и DataSet API. [link](https://docs.google.com/presentation/d/13FLsniAPgVSC3ceLERfJGLDixK5O5ESFVJDUEVW44rE/edit?usp=sharing)
+
+4. Apache Spark. Внутреннее устройство и оптимизация. [link](https://docs.google.com/presentation/d/1kv8OT1hQXmhGMJssksb1eAqRb6u1qhhYVn6z5vpNTYw/edit?usp=sharing)
